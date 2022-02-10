@@ -4,7 +4,9 @@ It can solve 9*9 shudoku problems
 Steps to play the game
 
 1] add the input in the cells, input must be from 1 to 9 digit.
+
 2] click on solve button , it will solve the shudoku and display the output in the cells.
+
 3] click on reset to clear all the input fields.
 
 sample input
